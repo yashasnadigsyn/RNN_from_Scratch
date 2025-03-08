@@ -1,5 +1,5 @@
 # RNN From Scratch
-## Training Dataset
+## Training Data
 ![Training Dataset](https://github.com/yashasnadigsyn/RNN_from_Scratch/blob/main/Figure%202025-03-08%20220744.png?raw=true)
 
 ## Training Epoch 0
