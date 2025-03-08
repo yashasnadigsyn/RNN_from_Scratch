@@ -1,6 +1,6 @@
 # RNN From Scratch
 ## Training Dataset
-![Training Dataset](Figure 2025-03-08 220744.png)
+![Training Dataset](./Figure 2025-03-08 220744.png)
 
 ## Training Epoch 0
 ![Training Epoch 0](Figure 2025-03-08 220811.png)
