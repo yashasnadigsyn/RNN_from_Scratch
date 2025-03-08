@@ -1,15 +1,15 @@
 # RNN From Scratch
 ## Training Dataset
-![Training Dataset](./Figure 2025-03-08 220744.png)
+![Training Dataset](https://github.com/yashasnadigsyn/RNN_from_Scratch/blob/main/Figure%202025-03-08%20220744.png?raw=true)
 
 ## Training Epoch 0
-![Training Epoch 0](Figure 2025-03-08 220811.png)
+![Training Epoch 0](https://github.com/yashasnadigsyn/RNN_from_Scratch/blob/main/Figure%202025-03-08%20220811.png?raw=true)
 
-## Training Epoch 999
-![Training Epoch 999](Figure 2025-03-08 220831.png)
+## Final Epoch
+![Final Epoch](https://github.com/yashasnadigsyn/RNN_from_Scratch/blob/main/Figure%202025-03-08%20220831.png?raw=true)
 
 ## Predicting Epoch 0
-![Predicting Epoch 0](Figure 2025-03-08 220840.png)
+![Predicting Epoch 0](https://github.com/yashasnadigsyn/RNN_from_Scratch/blob/main/Figure%202025-03-08%20220840.png?raw=true)
 
 ## Final Predict
-![Final Predict](Figure 2025-03-08 220849.png)
+![Final Predict](https://github.com/yashasnadigsyn/RNN_from_Scratch/blob/main/Figure%202025-03-08%20220849.png?raw=true)
